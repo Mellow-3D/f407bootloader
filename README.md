@@ -1,2 +1,3 @@
 # f407bootloader
-为3d打印机主板上传固件所写的bootloader
+为3d打印机主板上传固件所写的bootload
+使用sdio的主板才可以正常烧录进去
